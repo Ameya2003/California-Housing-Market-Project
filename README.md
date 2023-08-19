@@ -1,1 +1,6 @@
-# California-Housing-Market-Project
+# California Housing Market Project
+This project aims to scrutinize the discourse inside the world of data analysis using Python based tools to understand and possibly answer questions related to the housing market of California. At the end of our analysis, we should be able to answer questions that can help a prospective buyer to provide his preferences and constraints and get answers to help him decide on buying his/her dream house.
+
+Housing prices is an intriguing yet familiar topic which is touched upon time and again in an attempt to grasp and derive the relationship between the mechanism of pricing houses and factors affecting these very prices. Often, the results drawn from this analysis turn out to be skewed and non-representative of the original population. With the aid of the dataset provided below named 'California Housing Prices in 1990', we wish to re-analyse the data provided within the dataframe with a macro level view of perspective and depict the resulting correlation.
+
+Our objective is to ascertain how various independent variables such as the Age of the House, Ocean Proximity, and Average Occupancy(rooms per person) steer a consumer’s decision to adjust his budget into purchasing a house. We wish to do the same by visualizing each of our handpicked independent as well as dependent variables and plotting them against each other using meaningful visualization techniques and graphical tools to derive relationships that can help us in achieving our objective
